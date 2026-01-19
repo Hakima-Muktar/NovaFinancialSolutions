@@ -2,4 +2,7 @@
   "python.defaultInterpreterPath": "${workspaceFolder}/venv/Scripts/python.exe",
   "python.languageServer": "Pylance",
   "editor.formatOnSave": true,
+  "cSpell.words": [
+    "sdist"
+  ],
 }
