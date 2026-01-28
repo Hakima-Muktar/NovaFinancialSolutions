@@ -45,28 +45,28 @@ python -m venv venv
 venv\Scripts\activate
 # Tasks Completed
 ## Task 1: Git & Environment Setup
-Repository initialized with branches and CI workflow
-Python virtual environment created
-Exploratory Data Analysis (EDA) of news headlines, publishers, and publishing times
+- Repository initialized with branches and CI workflow
+- Python virtual environment created
+- Exploratory Data Analysis (EDA) of news headlines, publishers, and publishing times
 ## Task 2: Technical Indicators & Market Analysis
-Stock price data cleaned and prepared
-Technical indicators computed (SMA, EMA, RSI, MACD)
-Visualizations for trends and volume
+- Stock price data cleaned and prepared
+- Technical indicators computed (SMA, EMA, RSI, MACD)
+- Visualizations for trends and volume
 ## Task 3: Sentiment vs Stock Movement Correlation
-Sentiment scores generated from news headlines
-Daily stock returns calculated
-Pearson correlation analysis between sentiment and returns
-Visualizations for patterns and regression
+- Sentiment scores generated from news headlines
+- Daily stock returns calculated
+- Pearson correlation analysis between sentiment and returns
+- Visualizations for patterns and regression
 ## Requirements
-Python 3.x
-Pandas, NumPy
-Matplotlib, Seaborn
-TA-Lib, PyNance
-NLTK, TextBlob
-Jupyter Notebook
-Git & GitHub Actions
+- Python 3.x
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- TA-Lib, PyNance
+- NLTK, TextBlob
+- Jupyter Notebook
+- Git & GitHub Actions
 ## Key Insights
-Negative news sentiment often precedes short-term price drops
-Certain publishers have strong positive or negative bias
-Sentiment combined with technical indicators improves predictive power
-Publishing spikes align with major financial events
+- Negative news sentiment often precedes short-term price drops
+- Certain publishers have strong positive or negative bias
+- Sentiment combined with technical indicators improves predictive power
+- Publishing spikes align with major financial events
