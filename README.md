@@ -1,14 +1,14 @@
 # Predicting Price Moves with News Sentiment
 Analyze the relationship between financial news sentiment and stock price movements to provide actionable insights for Nova Financial Solutions.
 ## Table of Contents
-### project Overview 
-### Business Objective 
-### Dataset Overview
-### Folder Structure
-### Setup & Installation
-### Tasks Completed
-### Technologies Used
-### Key Insights
+- project Overview 
+- Business Objective 
+- Dataset Overview
+- Folder Structure
+- Setup & Installation
+- Tasks Completed
+- Requirements
+- Key Insights
 
 # Project Overview
 This project covers end-to-end analysis of financial news and stock prices:
@@ -28,44 +28,13 @@ The project focuses on:
 # Dataset Overview
 Financial News and Stock Price Integration Dataset (FNSPID):
 
-Column	    Description
-headline	 News article title
-url	         Link to full article
-publisher	 Publisher name or domain
-date	     Publication date & time (UTC-4)
-stock	     Stock ticker symbol
+![Table](<table pppp.png>)
  Stock Price Dataset:
 - Open, High, Low, Close (OHLC)
 - Volume
 - Daily returns
 # Folder Structure
-Predicting-Price-Moves-with-News-Sentiment/
-├── .github/
-│   └── workflows/
-│       ├──unittests.yml
-│                       # Security scanning
-│
-├── .vscode/
-│   ├── settings.json                  # Base pipeling
-│
-├── data/
-│   ├── raw/                           # NEVER touched by code
-│   ├── processed/                     # Ready for modeling
-│  
-│
-├── notebooks/               # EDA, visualization
-│     ├── data_explore.ipynb
-│     ├──Quantitative_analysis.ipynb
-│     └── correlation_between_news and stock.ipynb
-│
-├── scripts/
-│   ├── __init_.py               # CLI script
-├── src/
-│   └── news.py
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
+![Folder](<folder structure.png>)
 ## Clone the repository:
 git clone https://github.com/Hakima-Muktar/NovaFinancialSolutions.git
 cd NovaFinancialSolution
