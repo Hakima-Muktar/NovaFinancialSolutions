@@ -28,16 +28,17 @@ The project focuses on:
 # Dataset Overview
 Financial News and Stock Price Integration Dataset (FNSPID):
 
-![Table](<table pppp.png>)
+![tabe of stock](images/pppp.png>)
+
  Stock Price Dataset:
 - Open, High, Low, Close (OHLC)
 - Volume
 - Daily returns
 # Folder Structure
-![Folder](<folder structure.png>)
+![folder Structure](<images/structure.png>)
 ## Clone the repository:
 git clone https://github.com/Hakima-Muktar/NovaFinancialSolutions.git
-cd NovaFinancialSolution
+- cd NovaFinancialSolution
 
 ## Create a Python virtual environment and activate it:
 python -m venv venv
