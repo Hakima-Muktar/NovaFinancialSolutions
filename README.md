@@ -30,7 +30,8 @@ Financial News and Stock Price Integration Dataset (FNSPID):
 
 ![tabe of stock](images/pppp.png>)
 
- Stock Price Dataset:
+ Stock Price Dataset:pip install -e .
+
 - Open, High, Low, Close (OHLC)
 - Volume
 - Daily returns
@@ -38,7 +39,7 @@ Financial News and Stock Price Integration Dataset (FNSPID):
 ![folder Structure](<images/structure.png>)
 ## Clone the repository:
 git clone https://github.com/Hakima-Muktar/NovaFinancialSolutions.git
-- cd NovaFinancialSolution
+
 
 ## Create a Python virtual environment and activate it:
 python -m venv venv
